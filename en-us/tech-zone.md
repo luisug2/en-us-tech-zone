@@ -303,4 +303,4 @@ Here you will learn from experts and gain insights into Citrix technologies and 
 
 ### [Design - Reference Architectures](/en-us/tech-zone/design/reference-architectures.html)
 
-[3rd Party Reference Architectures](/en-us/tech-zone/design/reference-architectures/3rd-party.html) - View reference architectures created by our industry partners on joint technical solutions.
+[3rd Party Reference Architectures](/en-us/tech-zone/design/reference-architectures/3rd-party.html) - View reference architectures created by our industry partners on joint technical solutions. 
